@@ -10,6 +10,12 @@ Assignment for coursera's course "Applied Plotting, Charting &amp; Data Represen
 * Run Jupyter with `jupyter notebook`
 * Open the notebook **Pollution_data_of_Madrid.ipynb**
 
+# Liability disclaimer 
+Just glue-code, not the best way to do it, for sure.
+Just sample charts, not responsible if the data is being plotted incorrectly. 
+These examples have not been thoroughly tested under all conditions. 
+All programs contained herein are provided to you “AS IS” without any warranties of any kind. 
+
 # Description
 
 Two charts are plotted from the data:
