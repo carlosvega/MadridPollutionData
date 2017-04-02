@@ -18,7 +18,11 @@ All programs contained herein are provided to you “AS IS” without any warran
 
 # Description
 
-Two charts are plotted from the data:
+Two charts are plotted from the data.
+The original source of the data is the City of Madrid and [is available openly and for free.](http://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=f3c0f7d512273410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
+The information for the interpretation of the data is also available [in the website of the City of Madrid in its spanish version.](http://datos.madrid.es/FWProjects/egob/contenidos/datasets/ficheros/Interprete_ficheros_%20calidad_%20del_%20aire_global.pdf)
+
+
 ## First chart
 ![95th Percentile NO2 levels during different hours of the day \n for the years 2000-2016](https://github.com/carlosvega/MadridPollutionData/raw/master/charts/first_chart.png)
 
