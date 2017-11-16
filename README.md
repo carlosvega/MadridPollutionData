@@ -4,12 +4,15 @@ The data used is given by the City of Madrid through [their **open data** portal
 
 # Instructions
 * Requires python3
-* Clone the repository
-* Do `cd MadridPollutionData` to change to the repository directory
-* Execute `source bin/activate` to Open the virtual env 
-* Install python dependencies through the requirements.txt file using `python3 -m pip install -r requirements.txt`
-* Run Jupyter with `jupyter notebook`
+```
+git clone https://github.com/carlosvega/MadridPollutionData.git MadridPollutionData
+cd MadridPollutionData
+./install.sh
+source .env/bin/activate
+jupyter notebook
+```
 * Open the notebook **Pollution_data_of_Madrid.ipynb**
+To deactivate the virtualenv do `deactivate` in the terminal
 
 # Liability disclaimer 
 Just glue-code, not the best way to do it, for sure.
