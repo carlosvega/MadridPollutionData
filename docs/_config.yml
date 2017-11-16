@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Madrid NO2 levels
+description: Some charts depicting the NO2 levels of Madrid during the first decades of the XXI century.
+show_downloads: true
