@@ -11,6 +11,6 @@ pip3 install virtualenv
 
 virtualenv -p python3 .env
 
-pip3 install -U -r requirements.txt
-
 source .env/bin/activate
+
+pip3 install -U -r requirements.txt
